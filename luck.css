@@ -1,0 +1,34 @@
+body,
+html { 
+	width: 100px;
+	height: 100px;
+  background: url(pic.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: red;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 200px;
+
+}
+.btn-info{
+	background-color: #eabca7;
+	border-color:  #eabca7;
+
+}
+.btn-info:hover {
+	background-color: #b7b530;
+	border-color:  #b7b530;
+	border-width: 4px;
+
+}
+.btn-x1{
+	padding: 1rem 2rem;
+}
